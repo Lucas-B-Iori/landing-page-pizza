@@ -1,0 +1,28 @@
+.pizza {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000;
+  width: 400px;
+}
+
+.pizza__imagem {
+  background-color: gray;
+  width: 100%;
+  height: 200px;
+  padding: 20px;
+}
+
+.pizza__meta {
+  background-color: #e0d6d6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 12px 0;
+}
+
+.pizza__meta_caixa {
+  display: flex;
+  gap: 120px;
+}
+

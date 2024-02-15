@@ -1,0 +1,34 @@
+[
+  {
+    "imagem": "/images/frango.png",
+    "nome": "Frango" 
+  },
+  {
+    "imagem": "/images/calabresa.png",
+    "nome": "Calabresa" 
+  },
+  {
+    "imagem": "/images/chocolate.png",
+    "nome": "Chocolate" 
+  },
+  {
+    "imagem": "/images/confete.png",
+    "nome": "Confete" 
+  },
+  {
+    "imagem": "/images/portuguesa.png",
+    "nome": "Portuguesa" 
+  },
+  {
+    "imagem": "/images/prestigio.png",
+    "nome": "Prestigio" 
+  },
+  {
+    "imagem": "/images/sensacao.png",
+    "nome": "Sensação" 
+  },
+  {
+    "imagem": "/images/strogonoff.png",
+    "nome": "Strogonoff" 
+  }
+]

@@ -1,0 +1,30 @@
+.cardapio {
+  height: auto;
+  width: auto;
+  background-image: linear-gradient(rgba(29, 29, 29, 0.6), rgba(29, 29, 29, 0.6)), url('/images/cardapio.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.cardapio__titulo {
+  font-size: 42px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.cardapio__pizzas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  gap: 40px;
+  margin: 30px 20vw;
+}
+ 
+@media (max-width: 800px) {
+  .cardapio__pizzas {
+    margin: 30px 6vw;
+  }
+}
